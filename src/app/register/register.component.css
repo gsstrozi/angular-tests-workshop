@@ -1,0 +1,26 @@
+.fieldset-border {
+    border: 1px solid #ced4da;
+    padding: 0 1.4em 1.4em 1.4em;
+}
+
+.fieldset-border .legend-border {
+    
+    width: auto;
+    padding: 0 10px;
+    border-bottom: none;
+}
+
+.button-center {
+    text-align: left;
+    padding-top: 30px;
+}
+.button-center.button {
+    position: absolute;
+    top: 50%;
+}
+
+.button-right {
+    text-align: right;
+    padding: 0;
+    margin-top: 10px;
+}
